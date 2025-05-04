@@ -7,8 +7,5 @@
   <description>Examples on Stream Interface</description>
 <!-- add dependency here -->
 <dependencies>
-<!-- add individual dependency here -->
- <dependency>
- </dependency>
 </dependencies>
 </project>
