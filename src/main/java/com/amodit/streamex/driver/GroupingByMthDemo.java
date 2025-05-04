@@ -18,7 +18,7 @@ public class GroupingByMthDemo {
 		           .collect(Collectors.groupingBy((Student arg0) -> {return arg0.getCoursename();}));
 		
 		
-		
+		System.out.println("GroupingByMthDemo class");
 		
 
 	}
