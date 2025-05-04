@@ -9,6 +9,9 @@
 <dependencies>
 <!-- add individual dependency here -->
  <dependency>
+    <groupId></groupId>
+	<artifactId></artifactId>
+	<version></version>
  </dependency>
 </dependencies>
 </project>
